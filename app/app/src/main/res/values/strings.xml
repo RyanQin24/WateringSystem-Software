@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">HTTP_test</string>
+    <string name="enter_time">Enter time (HH:MM)</string>
+    <string name="enter_moisture">Enter moisture (%)</string>
+    <string name="enter_module">Enter module (integer)</string>
+    <string name="submit">Submit</string>
+    <string name="ReturnHome">Return Home</string>
+    <string name="schedule_page_title">Schedule Page</string>
+</resources>
